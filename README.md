@@ -1,8 +1,9 @@
+# [Django with Tailwind CSS](https://www.udemy.com/course/django-with-tailwind-css/)
+
+**Creating Beautiful Interfaces: Django and Tailwind CSS in Action**
+
 # udemy_django_tailwind
 Code along repository for "Django with Tailwind CSS" on Udemy
-
-[Django with Tailwind CSS](https://www.udemy.com/course/django-with-tailwind-css/)
-Creating Beautiful Interfaces: Django and Tailwind CSS in Action
 
 Are you looking to create a functional and visually appealing book rental system using Django and Tailwind CSS? If so, this project-based course is the perfect fit for you!
 
