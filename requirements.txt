@@ -2,3 +2,5 @@ Django==4.1.7
 asgiref==3.6.0
 sqlparse==0.4.3
 django_countries
+pillow==9.4.0
+qrcode==7.4.2
